@@ -9,7 +9,7 @@ body {
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url('https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=2070'); 
+    background-image: url('venue.png'); 
     background-size: cover;
     background-position: center;
     display: flex;
